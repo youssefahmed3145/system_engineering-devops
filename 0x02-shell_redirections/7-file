@@ -1,20 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo) > 1-confused_smiley
-
-echo '#!/bin/bash
-cat /etc/passwd' > 2-hellofile
-
-echo '#!/bin/bash
-cat /etc/passwd /etc/hosts' > 3-twofiles
-
-echo '#!/bin/bash
-tail -n 10 /etc/passwd' > 4-lastlines
-
-echo '#!/bin/bash
-head -n 10 /etc/passwd' > 5-firstlines
-
-echo '#!/bin/bash
-head -n 3 iacta | tail -n 1' > 6-third_line
-
-echo '#!/bin/bash
-echo Best School > *\"\Best School'\\\"*$\?*****:)"
+echo "Best School" > "*\\\"'Best School'\\\"*$\?*****:)"
