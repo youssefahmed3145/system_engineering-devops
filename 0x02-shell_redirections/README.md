@@ -1,1 +1,1 @@
-Shell redirections and filters project
+Shell redirections project
